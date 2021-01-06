@@ -63,6 +63,7 @@ ul li.checked::before {
   
 .close:hover {
     background-color: #ce0d0d;
+    transition : all ease-in 200ms;
     color: white;
 }
 
@@ -119,5 +120,6 @@ input {
 
 #clear-list:hover{
     background-color: #ce0d0d;
+    transition : all ease-in 200ms;
     color: white;
 }
